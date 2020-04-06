@@ -8,6 +8,7 @@ toolkitType: 'Bussiness Tools'
 # url: 'https://www.fcme.com.ec/'
 ---
 
+- Slack
 - Asana
 - Trello
 - Microsoft Teams
