@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Thian López Z. | Full Stack developer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Thian López Zambrano is a Systems Engineer based in Guayaquil Ecuador, who specializes in developing (and occasionally designing) exceptional, high-quality web and mobile applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Thian Lopez, Thian, Lopez, thianlopezz, Cristhian Lopez, Cristhian, Systems Engineer, Full Stack, web developer, mobile app developer, javascript, guayaquil',
+  siteUrl: 'https://thianlopezz.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: 'UA-162755626-1',
+  googleVerification: 'gy5VG09N3bgcs55fsRSQTFJEFrqMQ_it0GmPDALqtdg',
+  name: 'Thian López Zambrano',
+  location: 'Guayaquil, EC',
+  email: 'thianlopezz@gmail.com',
+  github: 'https://github.com/thianlopezz',
+  twitterHandle: '@thianlopezz',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/thianlopezz',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/thianlopezz',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Medium',
+      url: 'https://medium.com/@thianlopezz',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/thianlopezz',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/thianlopezz',
     },
   ],
 
@@ -44,6 +44,10 @@ module.exports = {
     {
       name: 'Experience',
       url: '/#jobs',
+    },
+    {
+      name: 'Skills and toolkit',
+      url: '/#toolkit',
     },
     {
       name: 'Work',

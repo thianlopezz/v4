@@ -15,6 +15,7 @@ import Jobs from './sections/jobs';
 import Featured from './sections/featured';
 import Projects from './sections/projects';
 import Contact from './sections/contact';
+import Toolkit from './sections/toolkit';
 
 export {
   Head,
@@ -28,6 +29,7 @@ export {
   Hero,
   About,
   Jobs,
+  Toolkit,
   Featured,
   Projects,
   Contact,

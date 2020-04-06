@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Thian Lopez'
+subtitle: 'I build mobile, web and desktop apps to improve our world.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a JavaScript full stack web developer with 5-year work experience developing mobile and web applications. From Galápagos, the land of the giant tortoises 🐢 to Guayaquil, I currently work at [Ecudevs](https://www.ecudevs.com/). I love to create exceptional technology stuff showing what I got for this world.

@@ -14,6 +14,7 @@ import IconPlayStore from './playstore';
 import IconStar from './star';
 import IconTwitter from './twitter';
 import IconZap from './zap';
+import IconMedium from './medium';
 
 export {
   IconAppStore,
@@ -32,4 +33,5 @@ export {
   IconStar,
   IconTwitter,
   IconZap,
+  IconMedium,
 };

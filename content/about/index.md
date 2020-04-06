@@ -1,18 +1,20 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me2.jpg'
 skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
+  - GatsbyJs
   - React
-  - Vue
+  - React Native
+  - Angular 2+
   - Node.js
+  - Flutter
   - Express
-  - NativeScript
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello I'm Cristhian or Thian, a full stack JavaScript web developer based in Guayaquil, Ecuador, who is a entrepreneur and code entusiasm, crazy about building exceptional stuff on the internet. I develop different kind of web, mobile and desktop apps from the frontend to the backend and the database layer.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+During my studies on [UCSG](https://www.ucsg.edu.ec/), I got my first work experience in a financial institution, then I moved to one priavate software company where I worked on a wide variety of interesting and meaningful projects with important clients as Corporacion El Rasado, Banco Pichincha, Grupo Vilaseca, among others. After graduating I founded [Ecudevs](https://www.ecudevs.com/) where I help people to achieve their dreams trough the code.
 
 Here are a few technologies I've been working with recently:

@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
+import { Layout, Hero, About, Jobs, Featured, Projects, Contact, Toolkit } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
 
@@ -15,6 +15,7 @@ const IndexPage = ({ location, data }) => (
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
+      <Toolkit data={data.toolkit.edges} />
       <Featured data={data.featured.edges} />
       <Projects data={data.projects.edges} />
       <Contact data={data.contact.edges} />
@@ -79,9 +80,26 @@ export const pageQuery = graphql`
         }
       }
     }
+    toolkit: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/toolkit/" } }
+      sort: { fields: [frontmatter___order], order: ASC }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            order
+            toolkitType
+            # location
+            # range
+            # url
+          }
+          html
+        }
+      }
+    }
     featured: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/featured/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___date], order: ASC }
     ) {
       edges {
         node {
@@ -96,6 +114,7 @@ export const pageQuery = graphql`
             }
             tech
             github
+            android
             external
           }
           html

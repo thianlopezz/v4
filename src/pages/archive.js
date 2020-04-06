@@ -235,7 +235,7 @@ export const pageQuery = graphql`
             tech
             github
             external
-            ios
+            #ios
             android
             company
           }
