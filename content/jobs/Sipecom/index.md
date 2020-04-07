@@ -1,7 +1,7 @@
 ---
 date: '2016-01-25'
-title: 'Junior .Net programmer'
-company: 'Sipecom'
+title: 'Semi senior .Net programmer'
+company: 'Sipecom S.A.'
 location: 'Guayaquil, EC'
 range: 'January - July 2017'
 url: 'http://www.sipecom.com/'
