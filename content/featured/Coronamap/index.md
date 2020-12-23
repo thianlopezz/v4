@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '3'
 title: 'Coronavirus Map'
 cover: './Coronamap.png'
 github: 'https://github.com/thianlopezz/covid19map'

@@ -54,6 +54,10 @@ module.exports = {
       url: '/#projects',
     },
     {
+      name: 'Blog',
+      url: 'https://medium.com/@thianlopezz',
+    },
+    {
       name: 'Contact',
       url: '/#contact',
     },
