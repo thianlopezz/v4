@@ -3,7 +3,7 @@ date: '2'
 title: 'Serviyaec'
 cover: './Serviyaec.png'
 # github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://serviyaec.com'
+external: 'https://www.serviyaec.com'
 android: 'https://play.google.com/store/apps/details?id=io.galadev.starter'
 tech:
   - MEAN Stack
