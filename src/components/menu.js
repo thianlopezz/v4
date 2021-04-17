@@ -101,14 +101,23 @@ const Menu = ({ menuOpen, toggleMenu }) => {
         <NavLinks>
           <NavList>
             {navLinks &&
-              navLinks.map(({ url, name }, i) => (
-                <NavListItem key={i}>
-                  <NavLink to={url}>{name}</NavLink>
-                </NavListItem>
-              ))}
+              navLinks.map(({ url, name, external }, i) =>
+                !external ? (
+                  <NavListItem key={i}>
+                    <NavLink to={url}>{name}</NavLink>
+                  </NavListItem>
+                ) : (
+                  <NavListItem key={i}>
+                    <NavLink onClick={() => window.open(url, '_blank').focus()}>{name}</NavLink>
+                  </NavListItem>
+                  //   <ResumeLink href={url} target="_blank" rel="nofollow noopener noreferrer">
+                  //     Resume
+                  //   </ResumeLink>
+                ),
+              )}
           </NavList>
           <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
-            Resume
+            Resumes
           </ResumeLink>
         </NavLinks>
       </Sidebar>

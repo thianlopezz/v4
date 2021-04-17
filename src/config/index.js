@@ -56,6 +56,7 @@ module.exports = {
     {
       name: 'Blog',
       url: 'https://medium.com/@thianlopezz',
+      external: true,
     },
     {
       name: 'Contact',
