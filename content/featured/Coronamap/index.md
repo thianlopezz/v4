@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Coronavirus Map'
 cover: './Coronamap.png'
 github: 'https://github.com/thianlopezz/covid19map'
@@ -9,7 +9,7 @@ tech:
   - Material UI
   - Google Maps
   - Heroku
-showInProjects: true
+showInProjects: false
 ---
 
 This is my little contribution for this tough moment we all are living.

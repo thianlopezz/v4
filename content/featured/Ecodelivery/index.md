@@ -1,9 +1,9 @@
 ---
-date: '1'
+date: '2'
 title: 'Ecodelivery Galápagos'
 cover: './Ecodelivery.png'
 # github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://www.ecodelivery.org/app/'
+external: 'https://www.ecodelivery.delivery/app/'
 android: 'https://play.google.com/store/apps/details?id=com.ecodelivery.market.app'
 tech:
   - Flutter

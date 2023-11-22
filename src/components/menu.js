@@ -73,6 +73,11 @@ const NavLink = styled(Link)`
   padding: 3px 20px 20px;
   width: 100%;
 `;
+const NavLinkA = styled.a`
+  ${mixins.link};
+  padding: 3px 20px 20px;
+  width: 100%;
+`;
 const ResumeLink = styled.a`
   ${mixins.bigButton};
   padding: 18px 50px;
@@ -108,7 +113,9 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                   </NavListItem>
                 ) : (
                   <NavListItem key={i}>
-                    <NavLink onClick={() => window.open(url, '_blank').focus()}>{name}</NavLink>
+                    <NavLinkA href={url} target="_blank" rel="nofollow noopener noreferrer">
+                      {name}
+                    </NavLinkA>
                   </NavListItem>
                   //   <ResumeLink href={url} target="_blank" rel="nofollow noopener noreferrer">
                   //     Resume
@@ -117,7 +124,7 @@ const Menu = ({ menuOpen, toggleMenu }) => {
               )}
           </NavList>
           <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
-            Resumes
+            Resume
           </ResumeLink>
         </NavLinks>
       </Sidebar>

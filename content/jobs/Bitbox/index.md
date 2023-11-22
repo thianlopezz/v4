@@ -3,12 +3,10 @@ date: '2020-05-01'
 title: 'Systems integrator'
 company: 'Bitbox'
 location: 'Guayaquil, EC'
-range: 'May 2020 - present'
+range: 'May 2020 - Jan 2021'
 url: 'https://bitbox.ec/'
 ---
 
-- Developed backend PHP logic to synchronice Woocommerce entities (products, orders, categories, tags, etc) for [Juan Marcet](https://juanmarcet.com/) with the client's information systems.
-- Delivered a PHP Laravel [microsite](https://happytime.pharmacys.com.ec/) where Pharmacys© client's can check if they apply for promo cupons.
-- Worked on a complex transactional [site](https://www.veris.com.ec/) for a medical retail company where their clients can access to many functionalities as buying medical plans, making appointments, checking prescriptions, checking medical exams, etc.
-- Integrated WordPress WooCommerce site for [Disensa](https://disensa.com.ec/) where their customers can add products to their cart for requesting franchises availability and prices.
-- Developed a [web](https://go.hispanadeseguros.com/) app for an insurance company where their clients have to fill some information to buy cars insurances.
+- Developed a [microsite](https://happytime.pharmacys.com.ec/) using Laravel and Tailwind CSS that had to support +50k clients, allowing users to check if applicable to get digital coupons.
+- Built a WordPress plugin with PHP logic to synchronize WooCommerce entities (products, orders, categories, tags, etc) capable of being reused to integrate whichever client wants to implement an eCommerce website. This plugin is working on 3 client shops ([Juan Marcet](https://juanmarcet.com/), [Disensa](https://disensa.com.ec/), [Veris](https://www.veris.com.ec/)).
+- Programmed a self-checkout [solution](https://go.hispanadeseguros.com/) for an assurance company, automating the sale of insurance policies using Ionic Framework and the WooCommerce API. Its automation released the operational work for the car revision process.

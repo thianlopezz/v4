@@ -11,7 +11,7 @@ toolkitType: 'Frontend'
 ### JavaScript Frameworks
 
 - React (I know technically is not a framework)
-- Angular 2+
+- Angular
 - AngularJs
 
 ### JavaScript Libraries

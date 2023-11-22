@@ -72,6 +72,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             company
+            full_company_name
             location
             range
             url

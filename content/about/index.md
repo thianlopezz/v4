@@ -3,14 +3,15 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
   - GatsbyJs
   - React
   - React Native
-  - Angular 2+
+  - Angular
   - Node.js
   - Flutter
-  - Express
+  - Docker
+  - Drupal
+  - Wordpress
 ---
 
 Hello I'm Cristhian or Thian, a full stack JavaScript web developer based in Guayaquil, Ecuador, who is a entrepreneur and code entusiasm, crazy about building exceptional stuff on the internet. I develop different kind of web, mobile and desktop apps from the frontend to the backend and the database layer.

@@ -153,6 +153,10 @@ const StyledListItem = styled.li`
 const StyledListLink = styled(Link)`
   padding: 12px 10px;
 `;
+const StyledListLinkA = styled.a`
+  padding: 12px 10px;
+`;
+
 const StyledResumeButton = styled.a`
   ${mixins.smallButton};
   margin-left: 10px;
@@ -288,9 +292,12 @@ class Nav extends Component {
                       </CSSTransition>
                     ) : (
                       <StyledListItem key={i}>
-                        <StyledListLink onClick={() => window.open(url, '_blank').focus()}>
+                        <StyledListLinkA
+                          href={url}
+                          target="_blank"
+                          rel="nofollow noopener noreferrer">
                           {name}
-                        </StyledListLink>
+                        </StyledListLinkA>
                       </StyledListItem>
                     ),
                   )}

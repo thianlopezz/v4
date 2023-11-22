@@ -1,9 +1,9 @@
 ---
-date: '5'
+date: '3'
 title: 'Chaskiy'
 cover: './Chaskiy.png'
 # github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://chaskiy.com'
+external: 'https://hotels.nomadem.cloud'
 tech:
   - Angular
   - Bootstrap

@@ -223,7 +223,8 @@ const Jobs = ({ data }) => {
         {data &&
           data.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { title, url, company, range } = frontmatter;
+            const { title, url, company, full_company_name, range } = frontmatter;
+
             return (
               <StyledTabContent
                 key={i}
@@ -238,7 +239,7 @@ const Jobs = ({ data }) => {
                   <StyledCompany>
                     <span>&nbsp;@&nbsp;</span>
                     <a href={url} target="_blank" rel="nofollow noopener noreferrer">
-                      {company}
+                      {full_company_name || company}
                     </a>
                   </StyledCompany>
                 </StyledJobTitle>
