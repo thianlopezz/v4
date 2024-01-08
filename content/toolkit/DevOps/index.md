@@ -12,4 +12,4 @@ toolkitType: 'DevOps'
 - Docker
 - Github
 - Gitlab
-- Jest
+- Cypress

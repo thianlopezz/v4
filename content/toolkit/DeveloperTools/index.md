@@ -11,9 +11,9 @@ toolkitType: 'Developer tools'
 - Vs Code
 - Visual Studio
 - Android Studio
+- Postman
 - Shell
 - NPM
 - Yarn
 - Putty
 - Live Share
-- Postman

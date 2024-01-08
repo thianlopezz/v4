@@ -9,5 +9,6 @@ toolkitType: 'Infraestructure'
 ---
 
 - Nginx
+- Traefik
 - Apache
 - IIS

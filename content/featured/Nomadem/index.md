@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'Nomadem'
 cover: './nomadem.png'
 github: 'https://github.com/thianlopezz/landing.nomadem'

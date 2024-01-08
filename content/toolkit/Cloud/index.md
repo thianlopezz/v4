@@ -11,7 +11,7 @@ toolkitType: 'Cloud'
 ### Hosting
 
 - Aws
-- Heroku
+- Vercel
 - Google GCP
 - Firebase
 

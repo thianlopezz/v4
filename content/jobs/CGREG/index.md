@@ -8,8 +8,8 @@ range: 'Jul 2021 - Dic 2021'
 url: 'https://www.gobiernogalapagos.gob.ec/'
 ---
 
+- Developed robust and scalable web application using ReactJs, PHP Laravel, and Docker, this application allows users to digitize historical and manual procedures provided by the institution
 - Managed public procurement and contracting processes
-- Developed robust and scalable web applications using ReactJs, PHP Laravel, and Docker
 - Managed institutional software applications like electronic billing systems, among others
 - Configured SSL certificates
 - Managed database and application servers

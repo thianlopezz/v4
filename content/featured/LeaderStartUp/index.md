@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '7'
 title: 'Leader Startup'
 cover: './LeaderStartup.png'
 github: 'https://github.com/thianlopezz/leader-startup'

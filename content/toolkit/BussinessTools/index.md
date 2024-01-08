@@ -9,6 +9,7 @@ toolkitType: 'Bussiness Tools'
 ---
 
 - Slack
+- Notion
 - Asana
 - Trello
 - Microsoft Teams

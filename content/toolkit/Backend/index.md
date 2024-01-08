@@ -18,8 +18,9 @@ toolkitType: 'Backend'
 
 ### Frameworks
 
+- Laravel
 - Express
-- Sails.js
+- Drupal
 - Django
 - Flask
 - Spring

@@ -23,18 +23,18 @@ toolkitType: 'Frontend'
 ### Frontend data layer
 
 - Redux
-- Redux Sagas
 - Apollo
 - GraphQl
 
 ### Module bundler
 
+- Vite
 - Webpack
 
 ### CSS Frameworks
 
+- Tailwindcss
 - Bootstrap
-- Materializecss
 - Bulma
 
 ### CSS preprocessors
