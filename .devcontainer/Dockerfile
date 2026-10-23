@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:24.22.1-alpine
 
 # Arguments for project configuration
 ARG PROJECT_NAME=thianlopezz.com

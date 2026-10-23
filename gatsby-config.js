@@ -6,9 +6,12 @@ module.exports = {
     siteUrl: config.siteUrl,
     description: config.siteDescription,
   },
+  // Keep page paths exactly as created (Gatsby <5 behavior) so `$path` matches post slugs
+  trailingSlash: 'ignore',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
@@ -66,7 +69,6 @@ module.exports = {
               maxWidth: 700,
               linkImagesToOriginal: true,
               quality: 90,
-              tracedSVG: { color: '#64ffda' },
             },
           },
           {
