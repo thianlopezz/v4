@@ -14,6 +14,7 @@ toolkitType: 'Cloud'
 - Vercel
 - Google GCP
 - Firebase
+- DigitalOcean
 
 ### Messaging
 

@@ -2,23 +2,24 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
+  - Claude Code & Codex
+  - AI agents & MCP
+  - RAG (pgvector)
+  - Ollama & local LLMs
+  - Python
   - JavaScript (ES6+)
-  - GatsbyJs
-  - React
-  - React Native (Expo)
-  - Angular
   - Node.js
+  - React & Gatsby
   - Laravel
-  - Flutter
-  - Docker
   - Drupal
-  - Wordpress
+  - Docker
+  - PostgreSQL
 ---
 
-Hello I'm Cristhian or Thian, a full stack JavaScript web developer based in Guayaquil, Ecuador, who is a entrepreneur and code entusiasm, crazy about building exceptional stuff on the internet. I develop different kind of web, mobile and desktop apps from the frontend to the backend and the database layer.
+Hello! I'm Cristhian, or Thian, an AI engineer based in Guayaquil, Ecuador, focused on agentic systems and LLM applications. I've been building software since 2014, from the frontend to the backend and the database layer.
 
-During my studies on [UCSG](https://www.ucsg.edu.ec/), I got my first work experience in a financial institution, then I moved to one priavate software company where I worked on a wide variety of interesting and meaningful projects with important clients as Corporacion El Rasado, Banco Pichincha, Grupo Vilaseca, among others. After graduating I founded [Ecudevs](https://ecudevs.thianlopezz.com/) where I help people to achieve their dreams trough the code. I have experience as an entrepreneur delivering mobile, web apps, and integration software processes for personal clients. I have worked in the e-commerce industry with technologies such as WordPress, WooCommerce, and Flutter, also developing fintech with ReactJs and PHP Laravel.
+During my studies at [UCSG](https://www.ucsg.edu.ec/), I got my first job at a financial institution, then moved to a private software company where I worked on projects for clients such as Corporación El Rosado, Banco Pichincha and Grupo Vilaseca. After graduating I founded [Ecudevs](https://ecudevs.thianlopezz.com/), where I taught JavaScript, Angular, React and Ionic, and went on to build fintech, e-commerce and government apps with React, Laravel and Ionic.
 
-Currently working at [Parallel Public Works](https://www.parallelpublicworks.com/) I've earned experience with React/Gatsby and PHP/Drupal helping nonprofit organizations to have their own spaces on the internet.
+At [Parallel Public Works](https://www.parallelpublicworks.com/) I build Gatsby and Drupal sites for nonprofit organizations, and I run an agentic development pipeline: Claude Code and Codex agents take tasks from pickup to pull request, with human review before any merge. I've also set up MCP servers and implemented agent skills for our development tasks. On my own, I built Astillero, a Python multi-agent orchestration framework, and I run a local LLM lab with Ollama and RAG on pgvector.
 
 Here are a few technologies I've been working with recently:

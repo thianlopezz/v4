@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Thian López Z. | Full Stack developer',
+  siteTitle: 'Thian López Z. | AI Engineer',
   siteDescription:
-    'Thian López Zambrano is a Systems Engineer based in Guayaquil Ecuador, who specializes in developing (and occasionally designing) exceptional, high-quality web and mobile applications.',
+    'Thian López Zambrano is an AI engineer based in Guayaquil, Ecuador, focused on agentic systems and LLM applications, with software engineering experience since 2014.',
   siteKeywords:
-    'Thian Lopez, Thian, Lopez, thianlopezz, Cristhian Lopez, Cristhian, Systems Engineer, Full Stack, web developer, mobile app developer, javascript, guayaquil',
+    'Thian Lopez, Thian, Lopez, thianlopezz, Cristhian Lopez, Cristhian, AI Engineer, agentic systems, LLM applications, AI agents, multi-agent orchestration, MCP, RAG, Claude Code, Systems Engineer, Full Stack, web developer, python, javascript, guayaquil',
   siteUrl: 'https://thianlopezz.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-162755626-1',
