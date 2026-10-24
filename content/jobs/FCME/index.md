@@ -1,10 +1,11 @@
 ---
 date: '2014-10-23'
-title: 'Junior .Net programmer'
+title: 'Junior .NET Programmer'
 company: 'FCME'
+full_company_name: 'Fondo de Cesantía del Magisterio Ecuatoriano'
 location: 'Guayaquil, EC'
-range: 'October - March 2015'
+range: 'Oct 2014 - Mar 2015'
 url: 'https://www.fcme.com.ec/'
 ---
 
-- Developed and mantained web applications using C# and Asp.Net.
+- Developed and maintained web applications with C# and ASP.NET.

@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Thian Lopez'
-subtitle: 'I build mobile, web and desktop apps to improve our world.'
+subtitle: 'I build agentic systems and LLM applications.'
 contactText: 'Get In Touch'
 ---
 
-I'm a JavaScript full stack web developer with 7-year+ work experience developing mobile and web applications. From Galápagos, the land of the giant tortoises 🐢 to Guayaquil, I currently work at [Jobsity](https://www.jobsity.com/)/[Parallel Public Works](https://www.parallelpublicworks.com/). I love to create exceptional technology stuff showing what I got for this world.
+I'm an AI engineer focused on agentic systems and LLM applications, with software engineering experience since 2014. From Galápagos, the land of the giant tortoises 🐢 to Guayaquil, I currently work at [Parallel Public Works](https://www.parallelpublicworks.com/), where I run an agentic development pipeline: AI coding agents take tasks from pickup to pull request, with human review before any merge.
